@@ -16,10 +16,6 @@ A React project demonstrating state management through a temperature component w
 
 ## The Challenge
 
-# React State Management Exercise
-
-This project demonstrates basic state management in React through two simple components:
-
 1. **Temperature Component**: This component displays the current temperature and allows you to increase or decrease it using buttons. The temperature value updates dynamically, and the background color changes based on the temperature range.
 
     - **State**: 
