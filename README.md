@@ -40,7 +40,9 @@ Both components use React class components and local state management to handle 
 
 ## Screenshot
 
-![Screenshot](https://github.com/imlilac/Lilac-Beauty/blob/main/public/img/skin-srcreenshot.png)
+![Screenshot](https://github.com/imlilac/counter-react/blob/main/public/screenshots/Screenshot%202024-08-11%20183107.png)
+
+![Screenshot](https://github.com/imlilac/counter-react/blob/main/public/screenshots/Screenshot%202024-08-11%20194120.png)
 
 ## Built With
 
