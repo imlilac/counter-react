@@ -1,4 +1,4 @@
-# React State Management Exercise
+# React State Exercise
 
 A React project demonstrating state management through a temperature component with dynamic styling and a counter component, both using class components and local state.
 
